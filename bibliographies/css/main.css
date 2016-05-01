@@ -1,0 +1,82 @@
+header{
+	background:#003d7a;
+	color: #fff;
+}
+
+.main{
+	background: #f2f2f2; 
+}
+
+.color1{
+	background: #34495e;
+	color: #fff;
+}
+
+.color2{
+	text-align: justify;
+	text-decoration: underline;;
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	color: white;
+
+}
+
+p {
+	text-align: justify;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+}
+
+aside{
+	background: #3d3d3d;
+	color: #fff;
+}
+
+footer{
+	background: #16a085;
+	color: #fff;
+}
+
+img{
+	max-width: 100%;
+}
+
+.quitar-float{
+	float: none;
+}
+
+.titulo{
+	margin-top: 15px;
+}
+
+.termina{
+	margin-bottom: 25px;
+}
+
+.espacio-arriba{
+	margin-top: 50px;
+}
+
+.espacio-derecha{
+	margin-right: 1em;
+}
+
+.cabin{
+	font-family: 'Cabin', sans-serif;
+	font-size: 23px;
+}
+
+.oswald{
+	font-family: 'Oswald', sans-serif;
+	font-size: 25px;
+}
+
+.josefin{
+	font-family: 'Josefin Sans', sans-serif;
+	font-size: 20px;
+}
+
+.arc-daugh{
+	font-family: 'Architects Daughter', cursive;
+	font-size: 20px;
+}
